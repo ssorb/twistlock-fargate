@@ -8,6 +8,6 @@ wget google.com
 sleep 60
 echo "get header from yahoo"
 wget yahoo.com
-echo "sleep for 5 minutes"
-sleep 300
+echo "sleep for 30 seconds"
+sleep 30
 echo 'bye'
