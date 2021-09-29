@@ -13,7 +13,7 @@
         }
       ],
       "command": null,
-      "image": "matthewabq/twistlock-fargate:18_11",
+      "image": "ssorb/twistlock-fargate:18_11",
       "name": "twistlock-fargate-18_11"
     }
   ],
